@@ -52,10 +52,10 @@ I’m a passionate web developer specializing in frontend development with React
 ## 🏆 GitHub Trophy & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sazeduzzaman&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" width="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamsajudev&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" width="300"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sazeduzzaman&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazeduzzaman&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsajudev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsajudev&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </div>
 
 ---
